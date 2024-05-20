@@ -1,0 +1,1 @@
+./vvv/bin/python main.py
